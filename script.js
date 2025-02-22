@@ -16,7 +16,7 @@ document.querySelectorAll('.read-more-btn').forEach(button => {
 
 
   document.getElementById('resumeBtn').addEventListener('click', function() {
-    window.open('Resume.pdf', '_blank');
+    window.open('resume2.pdf', '_blank');
   });
 
 
